@@ -2,5 +2,5 @@ streamlit
 pandas
 datetime
 imageio==2.37.0
-plotly.graph_objects
-plotly.express
+plotly==6.0.0
+
