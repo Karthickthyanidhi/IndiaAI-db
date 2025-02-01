@@ -1,0 +1,6 @@
+streamlit
+pandas
+datetime
+imageio.v2
+plotly.graph_objects
+plotly.express
