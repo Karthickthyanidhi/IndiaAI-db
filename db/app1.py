@@ -26,7 +26,7 @@ html_title = """
     border-radius:6px;
     }
     </style>
-    <center><h1 class="title-test">IndiaAI Dashboard</h1></center>"""
+    <center><h1 class="title-test">12345678 Dashboard</h1></center>"""
 with col2:
     st.markdown(html_title, unsafe_allow_html=True)
 
