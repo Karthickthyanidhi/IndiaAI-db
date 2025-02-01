@@ -1,6 +1,0 @@
-streamlit
-pandas
-datetime
-PIL
-plotly.graph_objects
-plotly.express
